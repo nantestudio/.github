@@ -1,17 +1,17 @@
 # Nante Studio
 
-**Building digital products that matter.**
+**Building things that are fun - and sometimes useful.**
 
 We create mobile apps, web applications, and developer tools with a focus on user experience and sustainable growth.
 
-🌐 **Website:** [https://nantestudio.com](https://nantestudio.com)
+Website: [https://nantestudio.com](https://nantestudio.com)
 
 ## What We Do
 
-- 📱 **Mobile Apps** - iOS and Flutter applications for consumer and business markets
-- 🌍 **Web Applications** - Modern web apps built with cutting-edge technologies
-- 🛠️ **Developer Tools** - Utilities and services that make development easier
-- 🎮 **Games** - Engaging mobile games with focus on retention and monetization
+- **Mobile Apps** - iOS and Flutter applications for consumer and business markets
+- **Web Applications** - Modern web apps built with cutting-edge technologies
+- **Developer Tools** - Utilities and services that make development easier
+- **Games** - Engaging mobile games with focus on retention and monetization
 
 ## Our Approach
 
